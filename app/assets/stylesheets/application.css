@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.list-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.notice {
+  color: green;
+}
